@@ -3,4 +3,4 @@
 export(rbokeh)
 import(htmltools)
 import(htmlwidgets)
-importFrom(rCharts2,getLayer)
+importFrom(rCharts,getLayer)
